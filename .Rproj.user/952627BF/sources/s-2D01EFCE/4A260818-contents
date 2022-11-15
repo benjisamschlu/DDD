@@ -534,15 +534,9 @@ knitr::include_graphics("ranke0.jpg")
     
     * Higher number of subnational areas
 
----
 
-# Lifespan variation
 
-```{r lifespan_var, out.width = "90%", fig.cap = "Districts, realistic disparity"}
-knitr::include_graphics("sd.jpg")
-```
 
-* Correlation = 0.84
 
 ---
 
