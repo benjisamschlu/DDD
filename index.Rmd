@@ -487,7 +487,7 @@ knitr::include_graphics("cov_new.jpg")
 ---
 class: inverse, center, middle
 
-# Indicators of interest in a subnational context (with BHM SVD)
+# Indicators of interest in a subnational context (estimated with BHM SVD)
 
 
 
@@ -554,7 +554,7 @@ knitr::include_graphics("ranke0.jpg")
 
 * Incorrectly specifying the spatial hierarchy in the hierarchical models does not significantly affect the performance
 
-* BHM SVD allows to reliably estimate demographic indicators at district level (life expectancy, ranking, lifespan variation) but metrics related to the overall distribution within the country are less reliable for municipalities (ranking)
+* BHM SVD allows to reliably estimate demographic indicators at district and municipality level (life expectancy, lifespan variation) but metrics related to the overall distribution within the country are less reliable for municipalities (ranking, spread)
 
 
 
