@@ -441,7 +441,7 @@ class: inverse, center, middle
 
 # Average RMSE
 
-```{r rmse, out.width = "130%"}
+```{r rmse, out.width = "160%"}
 knitr::include_graphics("rmse_new.jpg")
 ```
 
@@ -467,7 +467,7 @@ knitr::include_graphics("rmse_new.jpg")
 
 # Average 95% coverage
 
-```{r cov, out.width = "130%"}
+```{r cov, out.width = "160%"}
 knitr::include_graphics("cov_new.jpg")
 ```
 
@@ -487,7 +487,7 @@ knitr::include_graphics("cov_new.jpg")
 ---
 class: inverse, center, middle
 
-# Indicators of interest in a subnational context (estimated with BHM SVD)
+# Indicators of interest in a subnational context (estimated by BHM SVD)
 
 
 
@@ -546,7 +546,7 @@ knitr::include_graphics("ranke0.jpg")
 
 * RMSE for districts $<$ RMSE for municipalities 
 
-* BHM SVD (BHM) has a better performance in terms of average RMSE and coverage than the other models considered
+* BHM SVD (BHM) have better performances in terms of average RMSE and coverage than the other models considered
 
 * Hierarchical models stabilize their RMSE for smaller population sizes  
 
